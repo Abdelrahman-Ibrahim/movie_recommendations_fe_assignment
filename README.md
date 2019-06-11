@@ -4,7 +4,7 @@ This repository contains an assignment for our summer interns'19 candidates.
 ## Updates 
 - Navbar:
   - Added simple navbar with ability to search and subscribe button which pops up.
-- Entrance
+- Entrance:
   - Background photo with parallax effect.
   - Logo,text and subscribe button again in the middle.
 -New movies section:
