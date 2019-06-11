@@ -46,8 +46,9 @@ textarea {
   font-family: sans-serif; }
 
 body {
-  margin: 0; }
-
+  margin: 0; 
+  font-family: 'Work Sans', sans-serif;
+}
 a {
   background: transparent; }
   a:focus {
@@ -211,7 +212,7 @@ table {
  * Global Styles
  */
 body {
-  background-color: #0d5054;
+  background-color: #fdfdfd;
   background-position: top center;
   background-repeat: no-repeat;
   color: #84878d;
@@ -1517,9 +1518,10 @@ ul.arrow {
         color: #ffaa3c; }
 
 .main-content .container {
-  background: white;
-  border-radius: 5px;
-  padding: 30px; }
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 30px;
+  box-shadow :5px 5px 25px 5px rgba(29, 29, 29, 0.2); }
 
 .section-title {
   font-size: 30px;
