@@ -1,14 +1,6 @@
 # Movie Recommendations Fe Assignment
 This repository contains an assignment for our summer interns'19 candidates.
 
-## Screenshots 
-![alt text](img.png)
-![alt text](S(1).png)
-![alt text](S(2).png)
-![alt text](S(3).png)
-![alt text](S(4).png)
-![alt text](S(5).png)
-
 ## Updates 
 -Navbar
   -Added simple navbar with ability to search and subscribe button which pops up.
@@ -26,4 +18,14 @@ This repository contains an assignment for our summer interns'19 candidates.
 -Next page buttons
 -My css file >> My-style.css
 -My js file >> Myapp.js
+
+
+## Screenshots 
+![alt text](img.png)
+
+![alt text](S(1).png)
+![alt text](S(2).png)
+![alt text](S(3).png)
+![alt text](S(4).png)
+![alt text](S(5).png)
 
